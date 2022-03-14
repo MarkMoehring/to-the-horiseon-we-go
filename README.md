@@ -1,5 +1,8 @@
-Horiseon Refactor Challenge
+# Horiseon Refactor Challenge
 
-Description
+## Description
+
 This is a challenge
-Challenging but fun!
+
+
+*Challenging but fun!*
