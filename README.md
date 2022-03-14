@@ -21,7 +21,7 @@ Check out some of the improvements highlighted below:
 
 To see the source repository: <https://github.com/MarkMoehring/to-the-horiseon-we-go>
 
-This project was worked by **[Mark Moehring] (https://github.com/MarkMoehring)**.
+This project was worked by **[Mark Moehring](https://github.com/MarkMoehring)**.
 
 
 *Challenging but fun!*
